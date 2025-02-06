@@ -1,9 +1,13 @@
-# React + Vite
+#  Translator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple language translation app using React and Google Translate API.
 
-Currently, two official plugins are available:
+## Features
+- Translate text between different languages
+- Supports English, Portuguese, and Spanish
+- Uses Google Translate API
+- Live state management with React Hooks
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# TranslateWebApp
+---
+Made with ❤️ using React and Google Translate API!
+
